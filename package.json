@@ -1,0 +1,18 @@
+{
+  "name": "qawolf-finam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "qawolf test mainPage"
+  },
+  "author": "dragin",
+  "license": "ISC",
+  "devDependencies": {
+    "expect-playwright": "^0.2.5",
+    "jest": "^26.1.0",
+    "jest-allure": "^0.1.3",
+    "playwright": "1.2.0",
+    "qawolf": "1.2.0"
+  }
+}
